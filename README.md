@@ -16,3 +16,21 @@
 11. **git push** -> con esto mandamos los cambios a nuestro repositorio remoto.
 12. **git commit -am "nombre del commit"** -> es la combinación de add . y commit. Guarda en el repositorio local con add y agregamos un commit.
 
+
+
+# RESUMEN DE LA LISTA
+
+####
+
+1. **git init**
+2. **git add .**
+3. **git reset .**
+4. **git checkout  -- .**
+5. **git commit -m "nombre del commit"**
+6. **git log**
+7. **git commit --amend**
+8. **git checkout -b (nombre de la rama)**
+9. **git checkout (puede ser: master ó main)**
+10. **git branch -d (nombre de la rama)**
+11. **git push**
+12. **git commit -am "nombre del commit"**
