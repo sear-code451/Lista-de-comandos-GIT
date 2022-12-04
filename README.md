@@ -17,8 +17,8 @@
 12. **git commit -am "nombre del commit"** -> es la combinación de add . y commit. Guarda en el repositorio local con add y agregamos un commit.
 
 
-
-#### RESUMEN DE LA LISTA
+####
+# RESUMEN DE LA LISTA
 
 1. **git init**
 2. **git add .**
