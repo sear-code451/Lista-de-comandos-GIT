@@ -18,9 +18,7 @@
 
 
 
-# RESUMEN DE LA LISTA
-
-####
+#### RESUMEN DE LA LISTA
 
 1. **git init**
 2. **git add .**
