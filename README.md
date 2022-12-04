@@ -1,4 +1,6 @@
-#### LISTA DE COMANDOS GIT
+# LISTA DE COMANDOS GIT
+
+#### 12 COMANDOS BÁSICOS
 
 1. **git init** -> iniciar git.
 2. **git add .** -> guuadar achivos en repositiorio local
