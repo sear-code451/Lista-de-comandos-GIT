@@ -18,7 +18,27 @@
 13. **git remote:** esto nos muestra en el repositorio remoto de como llama dicho archivo.
 14. **git remote -v:** es lo mismo que el de arriba pero con la diferencia que nos da los detalles de la ubicación de cada repositorio remoto que tenemos algo así mas o menos buscar si no se entiende.
 
-15. **NO ES PARTE DE GIT: pwd:** esto es un comando de la terminal y no de git que nos muestra el directorio de trabajo o la ubicación del archivo en el que estamos. 
+15. **NO ES PARTE DE GIT: pwd:** esto es un comando de la terminal y no de git que nos muestra el directorio de trabajo o la ubicación del archivo en el que estamos.
+
+
+#### CONOCIMIENTOS GENERAL DE GIT:
+
+## Cuando usar ( - ) y ( -- )
+
+**ejemplo de cuando usar ( - )**
+```bash
+git add -a;  git branch -d;  git commit -am
+```
+
+Esto normalmente se usa con una letra despúes e incluso a veces 2.
+
+**ejemplo de cuando usar ( -- )**
+```bash
+git log --oneline;  git commit --amend
+```
+
+Esto normalmente se usa en una palabra.
+
 
 ####
 # RESUMEN DE LA LISTA
