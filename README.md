@@ -15,7 +15,10 @@
 10. **git branch -d (nombre de la rama)** -> con esto borramos a una rama en específica.
 11. **git push** -> con esto mandamos los cambios a nuestro repositorio remoto.
 12. **git commit -am "nombre del commit"** -> es la combinación de add . y commit. Guarda en el repositorio local con add y agregamos un commit.
+13. **git remote**: esto nos muestra en el repositorio remoto de como llama dicho archivo.
+14. **git remote -v:** es lo mismo que el de arriba pero con la diferencia que nos da los detalles de la ubicación de cada repositorio remoto que tenemos algo así mas o menos buscar si no se entiende.
 
+15. **NO ES PARTE DE GIT: pwd:** esto es un comando de la terminal y no de git que nos muestra el directorio de trabajo o la ubicación del archivo en el que estamos. 
 
 ####
 # RESUMEN DE LA LISTA
@@ -32,3 +35,6 @@
 10. **git branch -d (nombre de la rama)**
 11. **git push**
 12. **git commit -am "nombre del commit"**
+13. **git remote**
+14. **git remote -v**
+15. **pwd**
