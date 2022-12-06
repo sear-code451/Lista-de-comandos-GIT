@@ -21,9 +21,9 @@
 15. **NO ES PARTE DE GIT: pwd:** esto es un comando de la terminal y no de git que nos muestra el directorio de trabajo o la ubicación del archivo en el que estamos.
 
 
-#### CONOCIMIENTOS GENERAL DE GIT:
+## CONOCIMIENTOS GENERAL DE GIT:
 
-## Cuando usar ( - ) y ( -- )
+#### Cuando usar ( - ) y ( -- )
 
 **ejemplo de cuando usar ( - )**
 ```bash
